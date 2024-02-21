@@ -1,0 +1,769 @@
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Project.exe
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Project.deps.json
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Project.runtimeconfig.json
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Project.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Project.pdb
+E:\New Project\LoginForm\obj\Debug\net8.0-windows\LoginForm.LoginForm.resources
+E:\New Project\LoginForm\obj\Debug\net8.0-windows\Project.Properties.Resources.resources
+E:\New Project\LoginForm\obj\Debug\net8.0-windows\Project.csproj.GenerateResource.cache
+E:\New Project\LoginForm\obj\Debug\net8.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Project\LoginForm\obj\Debug\net8.0-windows\Project.AssemblyInfoInputs.cache
+E:\New Project\LoginForm\obj\Debug\net8.0-windows\Project.AssemblyInfo.cs
+E:\New Project\LoginForm\obj\Debug\net8.0-windows\Project.csproj.CoreCompileInputs.cache
+E:\New Project\LoginForm\obj\Debug\net8.0-windows\Project.dll
+E:\New Project\LoginForm\obj\Debug\net8.0-windows\refint\Project.dll
+E:\New Project\LoginForm\obj\Debug\net8.0-windows\Project.pdb
+E:\New Project\LoginForm\obj\Debug\net8.0-windows\Project.genruntimeconfig.cache
+E:\New Project\LoginForm\obj\Debug\net8.0-windows\ref\Project.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Humanizer.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New Project\LoginForm\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\New Project\LoginForm\obj\Debug\net8.0-windows\Project.csproj.AssemblyReference.cache
+E:\New Project\LoginForm\obj\Debug\net8.0-windows\Project.csproj.CopyComplete
+E:\New Project\Project\bin\Debug\net8.0-windows\Project.exe
+E:\New Project\Project\bin\Debug\net8.0-windows\Project.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Humanizer.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New Project\Project\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\New Project\Project\obj\Debug\net8.0-windows\Project.csproj.AssemblyReference.cache
+E:\New Project\Project\obj\Debug\net8.0-windows\Project.LoginForm.resources
+E:\New Project\Project\obj\Debug\net8.0-windows\Project.Properties.Resources.resources
+E:\New Project\Project\obj\Debug\net8.0-windows\Project.csproj.GenerateResource.cache
+E:\New Project\Project\obj\Debug\net8.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Project\Project\obj\Debug\net8.0-windows\Project.AssemblyInfoInputs.cache
+E:\New Project\Project\obj\Debug\net8.0-windows\Project.AssemblyInfo.cs
+E:\New Project\Project\obj\Debug\net8.0-windows\Project.csproj.CoreCompileInputs.cache
+E:\New Project\Project\obj\Debug\net8.0-windows\Project.dll
+E:\New Project\Project\obj\Debug\net8.0-windows\refint\Project.dll
+E:\New Project\Project\obj\Debug\net8.0-windows\Project.pdb
+E:\New Project\Project\bin\Debug\net8.0-windows\Project.deps.json
+E:\New Project\Project\bin\Debug\net8.0-windows\Project.runtimeconfig.json
+E:\New Project\Project\bin\Debug\net8.0-windows\Project.pdb
+E:\New Project\Project\obj\Debug\net8.0-windows\Project.genruntimeconfig.cache
+E:\New Project\Project\obj\Debug\net8.0-windows\ref\Project.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Project.exe
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Project.deps.json
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Project.runtimeconfig.json
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Project.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Project.pdb
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Humanizer.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI-dotNet\project oop\Project-1\Project\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ITI-dotNet\project oop\Project-1\Project\obj\Debug\net8.0-windows\Project.csproj.AssemblyReference.cache
+D:\ITI-dotNet\project oop\Project-1\Project\obj\Debug\net8.0-windows\Project.LoginForm.resources
+D:\ITI-dotNet\project oop\Project-1\Project\obj\Debug\net8.0-windows\Project.Properties.Resources.resources
+D:\ITI-dotNet\project oop\Project-1\Project\obj\Debug\net8.0-windows\Project.csproj.GenerateResource.cache
+D:\ITI-dotNet\project oop\Project-1\Project\obj\Debug\net8.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI-dotNet\project oop\Project-1\Project\obj\Debug\net8.0-windows\Project.AssemblyInfoInputs.cache
+D:\ITI-dotNet\project oop\Project-1\Project\obj\Debug\net8.0-windows\Project.AssemblyInfo.cs
+D:\ITI-dotNet\project oop\Project-1\Project\obj\Debug\net8.0-windows\Project.csproj.CoreCompileInputs.cache
+D:\ITI-dotNet\project oop\Project-1\Project\obj\Debug\net8.0-windows\Project.csproj.CopyComplete
+D:\ITI-dotNet\project oop\Project-1\Project\obj\Debug\net8.0-windows\Project.dll
+D:\ITI-dotNet\project oop\Project-1\Project\obj\Debug\net8.0-windows\refint\Project.dll
+D:\ITI-dotNet\project oop\Project-1\Project\obj\Debug\net8.0-windows\Project.pdb
+D:\ITI-dotNet\project oop\Project-1\Project\obj\Debug\net8.0-windows\Project.genruntimeconfig.cache
+D:\ITI-dotNet\project oop\Project-1\Project\obj\Debug\net8.0-windows\ref\Project.dll
+D:\ITI-dotNet\project oop\Project-1\Project\obj\Debug\net8.0-windows\Project.StudentForm.resources
+D:\ITI-dotNet\project oop\Project-1\Project\obj\Debug\net8.0-windows\Project.TeacherForm.resources
+D:\ITI-dotNet\project oop\Project-1\Project\obj\Debug\net8.0-windows\Project.TeacherProfile.resources
+D:\ITI-dotNet\project oop\Project-1\Project\obj\Debug\net8.0-windows\Project.TeacherForms.FormNewCourse.resources
+D:\ITI-dotNet\project oop\Project-1\Project\obj\Debug\net8.0-windows\Project.TeacherForms.FormTeacherCourse.resources
+D:\ITI-dotNet\project oop\Project-1\Project\obj\Debug\net8.0-windows\Project.TeacherForms.FormTeacherPayment.resources
+D:\ITI-dotNet\project oop\Project-1\Project\obj\Debug\net8.0-windows\Project.TeacherForms.FormSchedule.resources
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Project.exe
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Project.deps.json
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Project.runtimeconfig.json
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Project.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Project.pdb
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Osama\Desktop\marina proj\Project\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\Project.csproj.AssemblyReference.cache
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\Project.LoginForm.resources
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\Project.Properties.Resources.resources
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\Project.StudentForm.resources
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\Project.TeacherForm.resources
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\Project.TeacherForms.FormNewCourse.resources
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\Project.TeacherForms.FormSchedule.resources
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\Project.TeacherForms.FormTeacherCourse.resources
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\Project.TeacherForms.FormTeacherPayment.resources
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\Project.TeacherProfile.resources
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\Project.csproj.GenerateResource.cache
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\Project.AssemblyInfoInputs.cache
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\Project.AssemblyInfo.cs
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\Project.csproj.CoreCompileInputs.cache
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\Project.csproj.CopyComplete
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\Project.dll
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\refint\Project.dll
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\Project.pdb
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\Project.genruntimeconfig.cache
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\ref\Project.dll
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\Project.AdminForm.resources
+C:\Users\Osama\Desktop\marina proj\Project\obj\Debug\net8.0-windows\Project.CoursesFrame.resources
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Project.exe
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Project.deps.json
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Project.runtimeconfig.json
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Project.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Project.pdb
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Azure.Core.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Azure.Identity.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Humanizer.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\System.Memory.Data.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\WindowsFormProject\Assetes\Project\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\Project.csproj.AssemblyReference.cache
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\Project.AdminForm.resources
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\Project.CoursesFrame.resources
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\Project.LoginForm.resources
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\Project.Properties.Resources.resources
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\Project.StudentForm.resources
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\Project.TeacherForm.resources
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\Project.TeacherForms.FormNewCourse.resources
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\Project.TeacherForms.FormSchedule.resources
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\Project.TeacherForms.FormTeacherCourse.resources
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\Project.TeacherForms.FormTeacherPayment.resources
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\Project.TeacherProfile.resources
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\Project.csproj.GenerateResource.cache
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\Project.AssemblyInfoInputs.cache
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\Project.AssemblyInfo.cs
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\Project.csproj.CoreCompileInputs.cache
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\Project.csproj.CopyComplete
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\Project.dll
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\refint\Project.dll
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\Project.pdb
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\Project.genruntimeconfig.cache
+F:\ITI\WindowsFormProject\Assetes\Project\obj\Debug\net8.0-windows\ref\Project.dll
+E:\New Project\Project\obj\Debug\net8.0-windows\Project.AdminForm.resources
+E:\New Project\Project\obj\Debug\net8.0-windows\Project.CoursesFrame.resources
+E:\New Project\Project\obj\Debug\net8.0-windows\Project.StudentForm.resources
+E:\New Project\Project\obj\Debug\net8.0-windows\Project.TeacherForm.resources
+E:\New Project\Project\obj\Debug\net8.0-windows\Project.TeacherForms.FormNewCourse.resources
+E:\New Project\Project\obj\Debug\net8.0-windows\Project.TeacherForms.FormSchedule.resources
+E:\New Project\Project\obj\Debug\net8.0-windows\Project.TeacherForms.FormTeacherCourse.resources
+E:\New Project\Project\obj\Debug\net8.0-windows\Project.TeacherForms.FormTeacherPayment.resources
+E:\New Project\Project\obj\Debug\net8.0-windows\Project.TeacherProfile.resources
+E:\New Project\Project\obj\Debug\net8.0-windows\Project.csproj.Up2Date
+H:\Project\Project\obj\Debug\net8.0-windows\Project.csproj.AssemblyReference.cache
+H:\Project\Project\obj\Debug\net8.0-windows\Project.AdminForm.resources
+H:\Project\Project\obj\Debug\net8.0-windows\Project.CoursesFrame.resources
+H:\Project\Project\obj\Debug\net8.0-windows\Project.LoginForm.resources
+H:\Project\Project\obj\Debug\net8.0-windows\Project.Properties.Resources.resources
+H:\Project\Project\obj\Debug\net8.0-windows\Project.StudentForm.resources
+H:\Project\Project\obj\Debug\net8.0-windows\Project.TeacherForm.resources
+H:\Project\Project\obj\Debug\net8.0-windows\Project.TeacherForms.FormNewCourse.resources
+H:\Project\Project\obj\Debug\net8.0-windows\Project.TeacherForms.FormSchedule.resources
+H:\Project\Project\obj\Debug\net8.0-windows\Project.TeacherForms.FormTeacherCourse.resources
+H:\Project\Project\obj\Debug\net8.0-windows\Project.TeacherForms.FormTeacherPayment.resources
+H:\Project\Project\obj\Debug\net8.0-windows\Project.TeacherProfile.resources
+H:\Project\Project\obj\Debug\net8.0-windows\Project.csproj.GenerateResource.cache
+H:\Project\Project\obj\Debug\net8.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\Project\obj\Debug\net8.0-windows\Project.AssemblyInfoInputs.cache
+H:\Project\Project\obj\Debug\net8.0-windows\Project.AssemblyInfo.cs
+H:\Project\Project\obj\Debug\net8.0-windows\Project.csproj.CoreCompileInputs.cache
+H:\Project\Project\obj\Debug\net8.0-windows\Project.dll
+H:\Project\Project\obj\Debug\net8.0-windows\refint\Project.dll
+H:\Project\Project\obj\Debug\net8.0-windows\Project.pdb
+H:\Project\Project\bin\Debug\net8.0-windows\Project.exe
+H:\Project\Project\bin\Debug\net8.0-windows\Project.deps.json
+H:\Project\Project\bin\Debug\net8.0-windows\Project.runtimeconfig.json
+H:\Project\Project\bin\Debug\net8.0-windows\Project.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Project.pdb
+H:\Project\Project\bin\Debug\net8.0-windows\Azure.Core.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Azure.Identity.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Humanizer.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+H:\Project\Project\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+H:\Project\Project\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+H:\Project\Project\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+H:\Project\Project\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+H:\Project\Project\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+H:\Project\Project\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+H:\Project\Project\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+H:\Project\Project\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+H:\Project\Project\bin\Debug\net8.0-windows\System.Memory.Data.dll
+H:\Project\Project\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+H:\Project\Project\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Project\Project\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\Project\Project\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\Project\Project\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Project\Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Project\Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Project\Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Project\Project\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\Project\Project\obj\Debug\net8.0-windows\Project.csproj.Up2Date
+H:\Project\Project\obj\Debug\net8.0-windows\Project.genruntimeconfig.cache
+H:\Project\Project\obj\Debug\net8.0-windows\ref\Project.dll

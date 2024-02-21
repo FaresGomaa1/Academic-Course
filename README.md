@@ -1,7 +1,7 @@
 # Academic Course System
 
 ### Tutorial Video
-For a comprehensive guide on using the Academic Course system, please refer to the following tutorial video: [Tutorial Video](https://youtu.be/UAbZ4nT8_sI)
+For a comprehensive guide on using the Academic Course system, please refer to the following tutorial video: [Tutorial Video](https://youtu.be/Ec0ni5s3JaI)
 
 The **Academic Course System** is an educational platform designed to facilitate course management, enrollment, and billing for students, teachers, and administrators.
 

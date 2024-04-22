@@ -56,7 +56,6 @@ The Student user is able to enroll in courses, view their enrolled courses, and 
 
 The Academic Course System is developed using the following technologies:
 
-- **Frontend**: HTML, CSS, JavaScript
 - **Backend**: C#, Widows Forms, Entity Framework, LINQ
 - **Database**: MS SQL Server
 ## Contributing
